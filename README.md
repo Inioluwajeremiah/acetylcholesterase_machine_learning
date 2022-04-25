@@ -17,6 +17,7 @@ ChemBL database
 PADEL Descriptor
 
 <b>Feature Selection </b>
+Recursive Feature Elimination with 5-fold cross validation
   
     
     
